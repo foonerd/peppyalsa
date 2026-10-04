@@ -1,3 +1,7 @@
+> **This fork is closed (October 2026) and archived.**
+>
+> It carried fixes while they were on their way upstream. They are merged there ([project-owner/peppyalsa](https://github.com/project-owner/peppyalsa), pull request #7): use upstream. The player display this fork was kept for continues as [Glass](https://github.com/foonerd/glass).
+
 ## Renoir Edition 2021.10.16
 
 Fixed a bug in the Spectrum Analyzer.
